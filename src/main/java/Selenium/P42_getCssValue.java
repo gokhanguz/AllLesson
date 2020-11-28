@@ -59,6 +59,7 @@ public class P42_getCssValue {
       String webkit_text_size_adjust=element.getCssValue("webkit-text-size-adjust");
       System.out.println("webkit_text_size_adjust is: "+webkit_text_size_adjust);
 
+
   }
 
 
